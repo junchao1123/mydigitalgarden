@@ -1,5 +1,5 @@
 ---
-{"title":"🏡主页","dg-publish":true,"dg-home":true,"permalink":"/1/e/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"🏡主页","dg-publish":true,"permalink":"/1/e/","dgPassFrontmatter":true}
 ---
 
 # 🏡主页
